@@ -24,6 +24,9 @@ public class Point3D extends Point {
 		System.out.println(p.toString() + "입니다.");
 		
 		p.move(100, 200, 300);
-		System.out.println(p.toString() + "입니다.");;
+		System.out.println(p.toString() + "입니다.");
+		
+		System.out.println("Change");
+		
 	}
 }
