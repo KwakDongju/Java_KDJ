@@ -31,7 +31,7 @@ interface Stack {
 	         return true;}
 	      else return false; }}
 
-public class kdj1 {
+public class kdj_ex1 {
 	public static void main(String[] args) {
 	      Scanner scan = new Scanner(System.in);
 	      System.out.print("총 스택 저장 공간의 크기 입력 >> ");
@@ -53,4 +53,3 @@ public class kdj1 {
 	      scan.close();
 		}
 }
-
